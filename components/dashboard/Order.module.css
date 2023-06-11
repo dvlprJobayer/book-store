@@ -1,0 +1,10 @@
+.main {
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+.main > p {
+  padding: 25px;
+  text-align: center;
+  font-size: large;
+}
